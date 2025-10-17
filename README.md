@@ -2,7 +2,7 @@
 
 Aplikasi manajemen penjualan berbasis web yang dibangun dengan React.js (frontend) dan Node.js (backend).
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
 - **CRUD** untuk Barang, Pembeli, dan Transaksi
 - **Dashboard** dengan statistik penjualan
@@ -11,7 +11,7 @@ Aplikasi manajemen penjualan berbasis web yang dibangun dengan React.js (fronten
 - **Validasi** stok dan format data
 - **Pencarian** pembeli
 
-## 🛠 Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 ### Frontend
 - React.js
@@ -25,7 +25,7 @@ Aplikasi manajemen penjualan berbasis web yang dibangun dengan React.js (fronten
 - MySQL
 - CORS
 
-## 📦 Instalasi dan Menjalankan
+## Instalasi dan Menjalankan
 
 ### Prerequisites
 - Node.js
