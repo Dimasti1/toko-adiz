@@ -31,3 +31,8 @@ Aplikasi manajemen penjualan berbasis web yang dibangun dengan React.js (fronten
 - Node.js
 - MySQL
 - Git
+
+### Clone Repository
+```bash
+git clone https://github.com/Dimasti1/toko-adiz.git
+cd toko-adiz
